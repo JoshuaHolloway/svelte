@@ -15,7 +15,6 @@
     arr = [...arr, String(arr.length)];
   };
 
-
 </script>
 
 <main>
